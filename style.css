@@ -151,6 +151,7 @@ input::placeholder {
     var(--primary-200) 100%,
     var(--primary-300) 100%
   );
+  background-clip: text;
   -webkit-background-clip: text;
   color: transparent;
 }
